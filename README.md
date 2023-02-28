@@ -36,6 +36,10 @@ INTEGRANTES:
 ![image](https://user-images.githubusercontent.com/105020538/221754357-67cf2a5f-cbe0-46d6-9d3f-d74eae5ca79f.png)
 
 *PROCEDIMIENTO*
+DIAGRAMA ESQUEMATICO
+
+![image](https://user-images.githubusercontent.com/116812841/221917990-179649a8-1325-4850-940f-461956132cd6.png)
+
 
 * Colocaremos el sensor de temperatura LM35 tomando en cuenta el datasheet de conexiones respectivas. 
 
